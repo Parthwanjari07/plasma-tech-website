@@ -89,4 +89,4 @@ All rights reserved. This codebase is proprietary and confidential.
 
 ---
 
-Made with ❤️ by Same
+Made with ❤️ Plasma Tech 
