@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'standalone',
   /* config options here */
   distDir: process.env.NODE_ENV === "production" ? "build" : ".next",
   images: {
